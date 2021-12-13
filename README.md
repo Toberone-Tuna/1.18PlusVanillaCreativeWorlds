@@ -1,7 +1,8 @@
-# 1.18PlusVanillaCreativeWorlds
-Repository for backups of vanilla creative Minecraft worlds in 1.18 and beyond.
+# JernHund-Plus
+Up to date version of JernHund-Plus creative realm world. (CURRENTLY DOESNT EXIST)
 
-Go to a different branch (drop-down menu on the top left) to select the world you want.
+To download, go to Code>Download ZIP to get a zipped file with the world folder inside of it. (The world folder ITSELF that you use should be in the same folder as a README.md file)
 
-After that, go to Code>Download ZIP to get a zipped file with the world folder inside of it.
-(The world folder ITSELF that you use should be in the same folder as a README.md file)
+Last Played: mmmm dd, yyyy
+
+Minecraft Version: 1.18.1
