@@ -3,6 +3,6 @@ Up to date version of JernHund-Plus creative realm world. (CURRENTLY DOESNT EXIS
 
 To download, go to Code>Download ZIP to get a zipped file with the world folder inside of it. (The world folder ITSELF that you use should be in the same folder as a README.md file)
 
-Last Played: December 12, 2021
+Last Played: June 24, 2022
 
-Minecraft Version: 1.18.1
+Minecraft Version: 1.19
