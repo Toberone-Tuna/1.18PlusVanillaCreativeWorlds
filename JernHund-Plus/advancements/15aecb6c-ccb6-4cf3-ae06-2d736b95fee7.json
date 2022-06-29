@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-27 02:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-12-09 01:16:43 +0000"
@@ -2483,6 +2489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2022-06-27 02:29:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
     "criteria": {
       "has_smooth_red_sandstone": "2019-09-06 03:25:29 +0000"
@@ -3687,34 +3699,30 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2020-06-24 20:39:59 +0000",
-      "minecraft:snowy_mountains": "2019-06-14 18:21:37 +0000",
-      "minecraft:forest": "2019-06-14 17:24:57 +0000",
-      "minecraft:mountains": "2019-09-01 22:11:38 +0000",
-      "minecraft:taiga": "2019-06-17 18:02:27 +0000",
-      "minecraft:desert_hills": "2019-06-14 17:41:07 +0000",
-      "minecraft:deep_cold_ocean": "2020-06-24 20:40:00 +0000",
-      "minecraft:snowy_tundra": "2019-06-14 18:21:28 +0000",
-      "minecraft:taiga_hills": "2020-06-27 19:55:03 +0000",
-      "minecraft:desert": "2019-06-14 17:41:13 +0000",
+      "minecraft:taiga": "2020-06-27 19:55:03 +0000",
+      "minecraft:deep_ocean": "2022-06-27 02:20:01 +0000",
       "minecraft:frozen_river": "2019-06-14 18:21:53 +0000",
-      "minecraft:deep_frozen_ocean": "2021-10-13 19:02:58 +0000",
-      "minecraft:jungle": "2019-06-17 17:58:17 +0000",
-      "minecraft:birch_forest": "2019-06-14 17:23:50 +0000",
-      "minecraft:snowy_beach": "2019-06-17 17:54:56 +0000",
-      "minecraft:deep_lukewarm_ocean": "2020-06-27 19:44:12 +0000",
+      "minecraft:birch_forest": "2019-06-14 18:18:24 +0000",
+      "minecraft:windswept_hills": "2019-09-01 22:11:38 +0000",
       "minecraft:savanna_plateau": "2019-06-14 17:37:23 +0000",
       "minecraft:beach": "2019-06-14 15:30:31 +0000",
       "minecraft:dark_forest": "2019-06-14 17:48:33 +0000",
       "minecraft:river": "2019-06-14 15:43:27 +0000",
       "minecraft:lukewarm_ocean": "2020-06-27 19:09:05 +0000",
-      "minecraft:snowy_taiga": "2019-06-14 18:21:15 +0000",
-      "minecraft:birch_forest_hills": "2019-06-14 18:18:24 +0000",
-      "minecraft:wooded_mountains": "2019-06-17 18:01:53 +0000",
-      "minecraft:wooded_hills": "2019-06-14 15:29:49 +0000",
-      "minecraft:stone_shore": "2021-05-07 05:13:31 +0000",
+      "minecraft:snowy_plains": "2019-06-14 18:21:28 +0000",
+      "minecraft:stony_shore": "2021-05-07 05:13:31 +0000",
+      "minecraft:snowy_taiga": "2019-06-14 18:21:22 +0000",
       "minecraft:swamp": "2019-06-14 18:18:20 +0000",
-      "minecraft:snowy_taiga_hills": "2019-06-14 18:21:22 +0000",
+      "minecraft:cold_ocean": "2020-06-24 20:39:59 +0000",
+      "minecraft:forest": "2019-06-14 15:29:49 +0000",
+      "minecraft:deep_cold_ocean": "2020-06-24 20:40:00 +0000",
+      "minecraft:desert": "2019-06-14 17:41:13 +0000",
+      "minecraft:deep_frozen_ocean": "2021-10-13 19:02:58 +0000",
+      "minecraft:windswept_forest": "2019-06-17 18:01:53 +0000",
+      "minecraft:jungle": "2019-06-17 17:58:17 +0000",
+      "minecraft:ocean": "2022-06-27 02:03:36 +0000",
+      "minecraft:snowy_beach": "2019-06-17 17:54:56 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-06-27 19:44:12 +0000",
       "minecraft:savanna": "2019-06-14 17:37:32 +0000",
       "minecraft:plains": "2019-06-14 15:28:46 +0000"
     },
@@ -5201,7 +5209,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/ragdoll.png": "2019-12-19 20:30:28 +0000"
+      "minecraft:ragdoll": "2019-12-19 20:30:28 +0000"
     },
     "done": false
   },
@@ -5295,5 +5303,5 @@
     },
     "done": true
   },
-  "DataVersion": 2730
+  "DataVersion": 3105
 }

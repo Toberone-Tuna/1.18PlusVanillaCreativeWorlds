@@ -3597,6 +3597,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-06-27 01:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2020-06-25 02:44:16 +0000",
@@ -4698,6 +4704,7 @@
       "minecraft:swamp": "2020-06-25 02:44:16 +0000",
       "minecraft:cold_ocean": "2020-06-25 02:44:16 +0000",
       "minecraft:forest": "2020-06-25 02:44:16 +0000",
+      "minecraft:lush_caves": "2022-06-27 01:16:20 +0000",
       "minecraft:deep_cold_ocean": "2020-06-25 02:44:16 +0000",
       "minecraft:desert": "2020-06-25 02:44:16 +0000",
       "minecraft:deep_frozen_ocean": "2020-06-25 02:44:16 +0000",
