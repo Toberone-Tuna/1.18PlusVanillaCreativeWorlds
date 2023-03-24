@@ -1,4 +1,61 @@
 {
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2022-06-27 00:06:56 +0000",
+      "minecraft:old_growth_pine_taiga": "2022-06-27 00:06:56 +0000",
+      "minecraft:mushroom_fields": "2022-06-27 00:06:56 +0000",
+      "minecraft:taiga": "2022-06-27 00:06:56 +0000",
+      "minecraft:deep_ocean": "2022-06-27 00:06:56 +0000",
+      "minecraft:eroded_badlands": "2022-06-27 00:06:56 +0000",
+      "minecraft:frozen_river": "2022-06-27 00:06:56 +0000",
+      "minecraft:sunflower_plains": "2022-06-27 00:06:56 +0000",
+      "minecraft:birch_forest": "2022-06-27 00:06:56 +0000",
+      "minecraft:windswept_hills": "2022-06-27 00:06:56 +0000",
+      "minecraft:bamboo_jungle": "2022-06-27 00:06:56 +0000",
+      "minecraft:wooded_badlands": "2022-06-27 00:06:56 +0000",
+      "minecraft:badlands": "2022-06-27 00:06:56 +0000",
+      "minecraft:savanna_plateau": "2022-06-27 00:06:56 +0000",
+      "minecraft:beach": "2022-06-27 00:06:56 +0000",
+      "minecraft:dark_forest": "2022-06-27 00:06:56 +0000",
+      "minecraft:stony_peaks": "2022-06-27 00:06:56 +0000",
+      "minecraft:mangrove_swamp": "2022-06-27 00:06:56 +0000",
+      "minecraft:sparse_jungle": "2022-06-27 00:06:56 +0000",
+      "minecraft:lukewarm_ocean": "2022-06-27 00:06:56 +0000",
+      "minecraft:river": "2022-06-27 00:06:56 +0000",
+      "minecraft:snowy_plains": "2022-06-27 00:06:55 +0000",
+      "minecraft:stony_shore": "2022-06-27 00:06:56 +0000",
+      "minecraft:snowy_taiga": "2022-06-27 00:06:56 +0000",
+      "minecraft:dripstone_caves": "2022-06-27 00:06:56 +0000",
+      "minecraft:swamp": "2022-06-27 00:06:56 +0000",
+      "minecraft:grove": "2022-06-27 00:06:56 +0000",
+      "minecraft:jagged_peaks": "2022-06-27 00:06:56 +0000",
+      "minecraft:cold_ocean": "2022-06-27 00:06:56 +0000",
+      "minecraft:forest": "2022-06-27 00:06:56 +0000",
+      "minecraft:lush_caves": "2022-06-27 00:06:56 +0000",
+      "minecraft:deep_cold_ocean": "2022-06-27 00:06:56 +0000",
+      "minecraft:ice_spikes": "2022-06-27 00:06:56 +0000",
+      "minecraft:frozen_ocean": "2022-06-27 00:06:56 +0000",
+      "minecraft:desert": "2022-06-27 00:06:56 +0000",
+      "minecraft:deep_frozen_ocean": "2022-06-27 00:06:56 +0000",
+      "minecraft:windswept_forest": "2022-06-27 00:06:56 +0000",
+      "minecraft:jungle": "2022-06-27 00:06:56 +0000",
+      "minecraft:ocean": "2022-06-27 00:06:56 +0000",
+      "minecraft:old_growth_spruce_taiga": "2022-06-27 00:06:56 +0000",
+      "minecraft:snowy_beach": "2022-06-27 00:06:56 +0000",
+      "minecraft:windswept_savanna": "2022-06-27 00:06:56 +0000",
+      "minecraft:warm_ocean": "2022-06-27 00:06:56 +0000",
+      "minecraft:deep_lukewarm_ocean": "2022-06-27 00:06:56 +0000",
+      "minecraft:flower_forest": "2022-06-27 00:06:56 +0000",
+      "minecraft:frozen_peaks": "2022-06-27 00:06:56 +0000",
+      "minecraft:old_growth_birch_forest": "2022-06-27 00:06:56 +0000",
+      "minecraft:deep_dark": "2022-06-27 00:06:56 +0000",
+      "minecraft:meadow": "2022-06-27 00:06:56 +0000",
+      "minecraft:windswept_gravelly_hills": "2022-06-27 00:06:56 +0000",
+      "minecraft:savanna": "2022-06-27 00:06:56 +0000",
+      "minecraft:plains": "2022-06-27 00:06:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
     "criteria": {
       "has_cut_copper_stairs": "2022-06-27 00:06:56 +0000",
@@ -2575,7 +2632,6 @@
   },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_sand": "2022-06-27 00:06:56 +0000",
       "has_the_recipe": "2022-06-27 00:06:56 +0000"
     },
     "done": true
@@ -3933,7 +3989,6 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2022-06-27 00:06:56 +0000",
-      "has_stick": "2022-06-27 00:06:56 +0000",
       "has_the_recipe": "2022-06-27 00:06:56 +0000"
     },
     "done": true
@@ -4144,8 +4199,7 @@
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_the_recipe": "2022-06-27 00:06:56 +0000",
-      "has_planks": "2022-06-27 00:06:56 +0000"
+      "has_the_recipe": "2022-06-27 00:06:56 +0000"
     },
     "done": true
   },
@@ -5627,7 +5681,6 @@
     "criteria": {
       "has_tripwire_hook": "2022-06-27 00:06:56 +0000",
       "has_string": "2022-06-27 00:06:56 +0000",
-      "has_stick": "2022-06-27 00:06:56 +0000",
       "has_the_recipe": "2022-06-27 00:06:56 +0000",
       "has_iron_ingot": "2022-06-27 00:06:56 +0000"
     },
@@ -5885,63 +5938,6 @@
       "has_white_dye": "2022-06-27 00:06:56 +0000",
       "has_the_recipe": "2022-06-27 00:06:56 +0000",
       "has_black_dye": "2022-06-27 00:06:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:snowy_slopes": "2022-06-27 00:06:56 +0000",
-      "minecraft:old_growth_pine_taiga": "2022-06-27 00:06:56 +0000",
-      "minecraft:mushroom_fields": "2022-06-27 00:06:56 +0000",
-      "minecraft:taiga": "2022-06-27 00:06:56 +0000",
-      "minecraft:deep_ocean": "2022-06-27 00:06:56 +0000",
-      "minecraft:eroded_badlands": "2022-06-27 00:06:56 +0000",
-      "minecraft:frozen_river": "2022-06-27 00:06:56 +0000",
-      "minecraft:sunflower_plains": "2022-06-27 00:06:56 +0000",
-      "minecraft:birch_forest": "2022-06-27 00:06:56 +0000",
-      "minecraft:windswept_hills": "2022-06-27 00:06:56 +0000",
-      "minecraft:bamboo_jungle": "2022-06-27 00:06:56 +0000",
-      "minecraft:wooded_badlands": "2022-06-27 00:06:56 +0000",
-      "minecraft:badlands": "2022-06-27 00:06:56 +0000",
-      "minecraft:savanna_plateau": "2022-06-27 00:06:56 +0000",
-      "minecraft:beach": "2022-06-27 00:06:56 +0000",
-      "minecraft:dark_forest": "2022-06-27 00:06:56 +0000",
-      "minecraft:stony_peaks": "2022-06-27 00:06:56 +0000",
-      "minecraft:mangrove_swamp": "2022-06-27 00:06:56 +0000",
-      "minecraft:sparse_jungle": "2022-06-27 00:06:56 +0000",
-      "minecraft:lukewarm_ocean": "2022-06-27 00:06:56 +0000",
-      "minecraft:river": "2022-06-27 00:06:56 +0000",
-      "minecraft:snowy_plains": "2022-06-27 00:06:55 +0000",
-      "minecraft:stony_shore": "2022-06-27 00:06:56 +0000",
-      "minecraft:snowy_taiga": "2022-06-27 00:06:56 +0000",
-      "minecraft:dripstone_caves": "2022-06-27 00:06:56 +0000",
-      "minecraft:swamp": "2022-06-27 00:06:56 +0000",
-      "minecraft:grove": "2022-06-27 00:06:56 +0000",
-      "minecraft:jagged_peaks": "2022-06-27 00:06:56 +0000",
-      "minecraft:cold_ocean": "2022-06-27 00:06:56 +0000",
-      "minecraft:forest": "2022-06-27 00:06:56 +0000",
-      "minecraft:lush_caves": "2022-06-27 00:06:56 +0000",
-      "minecraft:deep_cold_ocean": "2022-06-27 00:06:56 +0000",
-      "minecraft:ice_spikes": "2022-06-27 00:06:56 +0000",
-      "minecraft:frozen_ocean": "2022-06-27 00:06:56 +0000",
-      "minecraft:desert": "2022-06-27 00:06:56 +0000",
-      "minecraft:deep_frozen_ocean": "2022-06-27 00:06:56 +0000",
-      "minecraft:windswept_forest": "2022-06-27 00:06:56 +0000",
-      "minecraft:jungle": "2022-06-27 00:06:56 +0000",
-      "minecraft:ocean": "2022-06-27 00:06:56 +0000",
-      "minecraft:old_growth_spruce_taiga": "2022-06-27 00:06:56 +0000",
-      "minecraft:snowy_beach": "2022-06-27 00:06:56 +0000",
-      "minecraft:windswept_savanna": "2022-06-27 00:06:56 +0000",
-      "minecraft:warm_ocean": "2022-06-27 00:06:56 +0000",
-      "minecraft:deep_lukewarm_ocean": "2022-06-27 00:06:56 +0000",
-      "minecraft:flower_forest": "2022-06-27 00:06:56 +0000",
-      "minecraft:frozen_peaks": "2022-06-27 00:06:56 +0000",
-      "minecraft:old_growth_birch_forest": "2022-06-27 00:06:56 +0000",
-      "minecraft:deep_dark": "2022-06-27 00:06:56 +0000",
-      "minecraft:meadow": "2022-06-27 00:06:56 +0000",
-      "minecraft:windswept_gravelly_hills": "2022-06-27 00:06:56 +0000",
-      "minecraft:savanna": "2022-06-27 00:06:56 +0000",
-      "minecraft:plains": "2022-06-27 00:06:56 +0000"
     },
     "done": true
   },
@@ -8503,5 +8499,5 @@
     },
     "done": true
   },
-  "DataVersion": 3218
+  "DataVersion": 3337
 }
