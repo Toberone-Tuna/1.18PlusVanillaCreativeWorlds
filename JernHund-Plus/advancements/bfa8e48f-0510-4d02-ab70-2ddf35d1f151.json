@@ -271,17 +271,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_ocean": "2023-04-04 20:18:18 +0000",
-      "minecraft:sunflower_plains": "2023-04-04 20:49:41 +0000",
+      "minecraft:cold_ocean": "2023-04-04 20:17:51 +0000",
+      "minecraft:flower_forest": "2023-11-01 21:34:50 +0000",
       "minecraft:savanna_plateau": "2023-04-04 07:53:36 +0000",
       "minecraft:beach": "2023-04-04 20:17:52 +0000",
       "minecraft:dark_forest": "2023-04-04 07:50:04 +0000",
-      "minecraft:river": "2023-04-04 07:53:41 +0000",
-      "minecraft:cold_ocean": "2023-04-04 20:17:51 +0000",
       "minecraft:forest": "2023-04-04 20:49:37 +0000",
+      "minecraft:deep_ocean": "2023-04-04 20:18:18 +0000",
+      "minecraft:river": "2023-04-04 07:53:41 +0000",
+      "minecraft:snowy_plains": "2023-11-01 22:15:58 +0000",
       "minecraft:deep_cold_ocean": "2023-04-04 20:22:30 +0000",
       "minecraft:desert": "2023-04-04 20:18:08 +0000",
+      "minecraft:frozen_river": "2023-11-01 22:15:47 +0000",
+      "minecraft:windswept_forest": "2023-11-01 22:29:50 +0000",
       "minecraft:ocean": "2023-04-04 20:18:17 +0000",
+      "minecraft:sunflower_plains": "2023-04-04 20:49:41 +0000",
+      "minecraft:swamp": "2023-11-01 21:47:25 +0000",
+      "minecraft:birch_forest": "2023-11-01 21:50:22 +0000",
+      "minecraft:windswept_gravelly_hills": "2023-11-01 22:05:53 +0000",
+      "minecraft:windswept_hills": "2023-11-01 21:49:47 +0000",
       "minecraft:savanna": "2023-04-04 07:53:44 +0000",
       "minecraft:plains": "2023-04-04 07:52:52 +0000"
     },
@@ -342,12 +350,6 @@
     "done": true
   },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_red_dye": "2023-04-04 08:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2023-04-04 08:01:56 +0000"
     },
@@ -599,12 +601,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
-    "criteria": {
-      "has_black_dye": "2023-04-04 20:40:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2023-04-04 20:40:36 +0000"
@@ -641,12 +637,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
-    "criteria": {
-      "has_yellow_dye": "2023-04-04 20:41:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2023-04-04 20:52:51 +0000"
@@ -678,12 +668,6 @@
     "done": true
   },
   "minecraft:recipes/decorations/orange_candle": {
-    "criteria": {
-      "has_orange_dye": "2023-04-04 20:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_orange_dye": "2023-04-04 20:53:06 +0000"
     },
@@ -737,5 +721,179 @@
     },
     "done": true
   },
-  "DataVersion": 3337
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2023-11-01 21:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-11-01 22:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-11-01 22:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2023-11-01 21:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-01 21:44:15 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
 }
