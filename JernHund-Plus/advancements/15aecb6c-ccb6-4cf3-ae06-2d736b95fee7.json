@@ -1,12 +1,25 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-06-24 20:39:59 +0000",
+      "minecraft:forest": "2019-06-14 15:29:49 +0000",
       "minecraft:taiga": "2020-06-27 19:55:03 +0000",
       "minecraft:deep_ocean": "2022-06-27 02:20:01 +0000",
+      "minecraft:deep_cold_ocean": "2020-06-24 20:40:00 +0000",
+      "minecraft:ice_spikes": "2022-10-16 02:02:02 +0000",
+      "minecraft:frozen_ocean": "2022-10-16 02:05:47 +0000",
+      "minecraft:desert": "2019-06-14 17:41:13 +0000",
       "minecraft:frozen_river": "2019-06-14 18:21:53 +0000",
+      "minecraft:deep_frozen_ocean": "2021-10-13 19:02:58 +0000",
+      "minecraft:windswept_forest": "2019-06-17 18:01:53 +0000",
+      "minecraft:jungle": "2019-06-17 17:58:17 +0000",
+      "minecraft:ocean": "2022-06-27 02:03:36 +0000",
       "minecraft:sunflower_plains": "2022-07-25 05:38:59 +0000",
       "minecraft:birch_forest": "2019-06-14 18:18:24 +0000",
       "minecraft:windswept_hills": "2019-09-01 22:11:38 +0000",
+      "minecraft:snowy_beach": "2019-06-17 17:54:56 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-06-27 19:44:12 +0000",
+      "minecraft:flower_forest": "2023-07-23 05:07:05 +0000",
       "minecraft:savanna_plateau": "2019-06-14 17:37:23 +0000",
       "minecraft:beach": "2019-06-14 15:30:31 +0000",
       "minecraft:dark_forest": "2019-06-14 17:48:33 +0000",
@@ -16,19 +29,6 @@
       "minecraft:stony_shore": "2021-05-07 05:13:31 +0000",
       "minecraft:snowy_taiga": "2019-06-14 18:21:22 +0000",
       "minecraft:swamp": "2019-06-14 18:18:20 +0000",
-      "minecraft:cold_ocean": "2020-06-24 20:39:59 +0000",
-      "minecraft:forest": "2019-06-14 15:29:49 +0000",
-      "minecraft:deep_cold_ocean": "2020-06-24 20:40:00 +0000",
-      "minecraft:ice_spikes": "2022-10-16 02:02:02 +0000",
-      "minecraft:frozen_ocean": "2022-10-16 02:05:47 +0000",
-      "minecraft:desert": "2019-06-14 17:41:13 +0000",
-      "minecraft:deep_frozen_ocean": "2021-10-13 19:02:58 +0000",
-      "minecraft:windswept_forest": "2019-06-17 18:01:53 +0000",
-      "minecraft:jungle": "2019-06-17 17:58:17 +0000",
-      "minecraft:ocean": "2022-06-27 02:03:36 +0000",
-      "minecraft:snowy_beach": "2019-06-17 17:54:56 +0000",
-      "minecraft:deep_lukewarm_ocean": "2020-06-27 19:44:12 +0000",
-      "minecraft:flower_forest": "2023-07-23 05:07:05 +0000",
       "minecraft:savanna": "2019-06-14 17:37:32 +0000",
       "minecraft:plains": "2019-06-14 15:28:46 +0000"
     },
@@ -885,19 +885,19 @@
       "minecraft:pillager": "2019-06-17 05:43:40 +0000",
       "minecraft:skeleton": "2019-06-15 04:29:12 +0000",
       "minecraft:elder_guardian": "2022-11-04 01:57:02 +0000",
-      "minecraft:ravager": "2019-09-02 20:39:22 +0000",
-      "minecraft:ghast": "2020-06-27 19:31:50 +0000",
-      "minecraft:vindicator": "2019-06-17 05:43:46 +0000",
-      "minecraft:spider": "2019-06-18 14:54:04 +0000",
-      "minecraft:creeper": "2019-06-15 19:18:03 +0000",
-      "minecraft:wither": "2020-06-27 19:14:06 +0000",
-      "minecraft:slime": "2021-12-05 05:46:48 +0000",
       "minecraft:zombified_piglin": "2019-06-17 04:10:09 +0000",
       "minecraft:witch": "2019-09-26 21:10:19 +0000",
+      "minecraft:ravager": "2019-09-02 20:39:22 +0000",
       "minecraft:husk": "2019-09-02 20:39:02 +0000",
+      "minecraft:ghast": "2020-06-27 19:31:50 +0000",
       "minecraft:shulker": "2019-12-22 06:04:31 +0000",
+      "minecraft:vindicator": "2019-06-17 05:43:46 +0000",
+      "minecraft:spider": "2019-06-18 14:54:04 +0000",
       "minecraft:zombie": "2019-06-17 05:50:28 +0000",
-      "minecraft:zombie_villager": "2019-09-13 00:31:41 +0000"
+      "minecraft:creeper": "2019-06-15 19:18:03 +0000",
+      "minecraft:wither": "2020-06-27 19:14:06 +0000",
+      "minecraft:zombie_villager": "2019-09-13 00:31:41 +0000",
+      "minecraft:slime": "2021-12-05 05:46:48 +0000"
     },
     "done": false
   },
@@ -2379,8 +2379,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2019-09-02 20:50:06 +0000",
       "minecraft:mooshroom": "2019-09-02 20:31:27 +0000",
+      "minecraft:pig": "2019-09-02 20:50:06 +0000",
       "minecraft:bee": "2019-12-18 20:17:02 +0000"
     },
     "done": false
@@ -2671,8 +2671,8 @@
     "criteria": {
       "cooked_porkchop": "2019-09-09 02:07:45 +0000",
       "honey_bottle": "2019-12-14 05:40:46 +0000",
-      "cooked_beef": "2019-09-12 23:35:47 +0000",
-      "rabbit": "2019-09-09 01:41:05 +0000"
+      "rabbit": "2019-09-09 01:41:05 +0000",
+      "cooked_beef": "2019-09-12 23:35:47 +0000"
     },
     "done": false
   },
@@ -5182,12 +5182,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2023-07-23 05:47:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2023-07-23 05:16:31 +0000"
@@ -5200,5 +5194,143 @@
     },
     "done": true
   },
-  "DataVersion": 3465
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-07-23 05:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_mosaic_slab": {
+    "criteria": {
+      "has_bamboo_mosaic": "2024-01-11 01:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_mosaic_stairs": {
+    "criteria": {
+      "has_bamboo_mosaic": "2024-01-11 01:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-01-11 01:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-01-11 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-01-12 03:17:11 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
 }

@@ -6543,12 +6543,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2023-11-20 00:00:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2023-11-19 22:44:52 +0000"
@@ -6567,11 +6561,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2023-11-20 00:00:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2023-11-20 00:00:04 +0000"
     },
     "done": true
   },
-  "DataVersion": 3578
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2024-01-01 06:56:44 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
 }
