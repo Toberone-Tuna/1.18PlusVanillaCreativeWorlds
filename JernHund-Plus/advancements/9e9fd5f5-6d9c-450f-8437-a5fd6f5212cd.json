@@ -5108,5 +5108,11 @@
     },
     "done": true
   },
-  "DataVersion": 3700
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-06-16 20:57:42 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3839
 }
