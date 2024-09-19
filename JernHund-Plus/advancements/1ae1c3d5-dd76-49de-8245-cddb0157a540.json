@@ -4604,7 +4604,6 @@
   },
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
-      "has_scute": "2022-06-26 01:33:10 +0000",
       "has_the_recipe": "2022-06-26 01:33:10 +0000"
     },
     "done": true
@@ -4765,7 +4764,7 @@
       "minecraft:drowned": "2022-06-26 01:33:10 +0000",
       "minecraft:zombie_villager": "2022-06-26 01:33:10 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
@@ -8379,5 +8378,5 @@
     },
     "done": true
   },
-  "DataVersion": 3700
+  "DataVersion": 3953
 }
