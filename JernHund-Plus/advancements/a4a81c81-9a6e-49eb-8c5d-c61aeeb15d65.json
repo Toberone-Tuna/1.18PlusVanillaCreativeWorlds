@@ -5,6 +5,7 @@
       "minecraft:flower_forest": "2023-07-23 05:07:16 +0000",
       "minecraft:savanna_plateau": "2022-07-25 05:56:23 +0000",
       "minecraft:beach": "2022-07-25 05:17:38 +0000",
+      "minecraft:dark_forest": "2024-11-27 03:15:01 +0000",
       "minecraft:forest": "2022-07-25 05:38:36 +0000",
       "minecraft:taiga": "2024-01-11 00:41:48 +0000",
       "minecraft:deep_ocean": "2022-07-25 06:21:13 +0000",
@@ -16,6 +17,8 @@
       "minecraft:frozen_river": "2022-07-25 06:49:34 +0000",
       "minecraft:ocean": "2022-07-25 05:17:54 +0000",
       "minecraft:sunflower_plains": "2022-07-25 05:38:40 +0000",
+      "minecraft:swamp": "2024-11-27 03:14:15 +0000",
+      "minecraft:birch_forest": "2024-11-27 03:14:10 +0000",
       "minecraft:windswept_hills": "2022-07-25 05:57:56 +0000",
       "minecraft:savanna": "2022-07-25 05:56:43 +0000",
       "minecraft:plains": "2022-07-25 05:17:03 +0000"
@@ -826,23 +829,11 @@
     },
     "done": true
   },
-  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
-    "criteria": {
-      "pot_crafted_using_only_sherds": "2024-01-15 04:58:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-01-15 04:53:57 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2024-01-15 04:57:35 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
@@ -886,11 +877,107 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-01-15 04:57:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2024-01-15 04:57:35 +0000"
     },
     "done": true
   },
-  "DataVersion": 3700
+  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+    "criteria": {
+      "pot_crafted_using_only_sherds": "2024-01-15 04:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-11-27 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-27 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-11-27 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-11-27 03:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-11-27 05:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-11-27 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-11-27 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-11-27 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-11-27 05:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-11-27 03:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2024-11-27 05:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-11-27 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-11-27 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-11-27 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4082
 }

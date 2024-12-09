@@ -5351,5 +5351,17 @@
     },
     "done": true
   },
-  "DataVersion": 3953
+  "minecraft:recipes/misc/field_masoned_banner_pattern": {
+    "criteria": {
+      "has_bricks": "2024-11-09 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2024-11-21 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4082
 }
