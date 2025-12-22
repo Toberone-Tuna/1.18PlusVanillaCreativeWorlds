@@ -2422,14 +2422,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_nugget": "2022-06-26 01:33:10 +0000",
-      "has_the_recipe": "2022-06-26 01:33:10 +0000",
-      "has_iron_ingot": "2022-06-26 01:33:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2022-06-26 01:33:10 +0000",
@@ -8496,5 +8488,5 @@
     },
     "done": true
   },
-  "DataVersion": 4438
+  "DataVersion": 4556
 }

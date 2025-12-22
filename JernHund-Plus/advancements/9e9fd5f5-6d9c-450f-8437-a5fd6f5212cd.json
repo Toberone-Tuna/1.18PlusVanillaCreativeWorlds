@@ -5965,5 +5965,23 @@
     },
     "done": true
   },
-  "DataVersion": 4438
+  "minecraft:recipes/decorations/oak_shelf": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-10-19 01:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_lightning_rod": "2025-10-19 01:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_weathered_lightning_rod": "2025-10-19 01:37:37 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4556
 }
