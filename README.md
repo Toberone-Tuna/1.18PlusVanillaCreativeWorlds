@@ -5,9 +5,9 @@ To download, go to Code>Download ZIP to get a zipped file with the world folder 
 
 **First Played:** July 2022 on 1.19 (Continuation of 'Jernhund' world)
 
-**Last Played:** March 29, 2026
+**Last Played:** June 23, 2026
 
-**Minecraft Version:** 1.21.11
+**Minecraft Version:** 26.1
 
 **World Size:** 3.04 GB
 
